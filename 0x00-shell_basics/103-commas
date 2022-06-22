@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lapmv
+ls -lapmv --group-directories-first
